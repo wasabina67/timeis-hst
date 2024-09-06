@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timeis-hst/static/css/main.f855e6bc.css",
+    "main.js": "/timeis-hst/static/js/main.803d611a.js",
+    "static/js/453.b5793891.chunk.js": "/timeis-hst/static/js/453.b5793891.chunk.js",
+    "index.html": "/timeis-hst/index.html",
+    "main.f855e6bc.css.map": "/timeis-hst/static/css/main.f855e6bc.css.map",
+    "main.803d611a.js.map": "/timeis-hst/static/js/main.803d611a.js.map",
+    "453.b5793891.chunk.js.map": "/timeis-hst/static/js/453.b5793891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.803d611a.js"
+  ]
+}
