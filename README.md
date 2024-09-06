@@ -1,2 +1,2 @@
-# timeis-utc
-A simple UTC clock app ⏰
+# timeis-hst
+A simple HST clock app ⏰

@@ -1,5 +1,5 @@
 {
-  "name": "timeis-utc",
+  "name": "timeis-hst",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage" : "https://wasabina67.github.io/timeis-utc"
+  "homepage" : "https://wasabina67.github.io/timeis-hst"
 }
