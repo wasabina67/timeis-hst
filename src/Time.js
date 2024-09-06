@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 
 function Clock() {
-  const [time, setTime] = useState(new Date().toLocaleTimeString('en-GB', { timeZone: 'UTC' }));
+  const [time, setTime] = useState(new Date().toLocaleTimeString('en-GB', { timeZone: 'Pacific/Honolulu' }));
 
   useEffect(() => {
     const timerId = setInterval(() => {
-      setTime(new Date().toLocaleTimeString('en-GB', { timeZone: 'UTC' }));
+      setTime(new Date().toLocaleTimeString('en-GB', { timeZone: 'Pacific/Honolulu' }));
     }, 1000);
 
     return () => clearInterval(timerId);
